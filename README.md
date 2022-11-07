@@ -11,7 +11,7 @@ A Junior Fullstack Developer from Belgium 🇧🇪
 
 
 - 🌱 I’m currently learning Python and Figma.
-- ⚡️ Fun-Fact: I have a bachelor degreein Optics and Optometry;
+- ⚡️ Fun-Fact: I have a bachelor degree in Optics and Optometry;
 - 📫 How to reach me: sylvaine.hello@gmail.com ;
 
 
