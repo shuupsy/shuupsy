@@ -2,15 +2,17 @@
 ## Hi 👋 , I'm Sylvaine ! 
 
 <!-- Subtitle -->
-A junior fullstack developer from Belgium 🇧🇪
+A Junior Fullstack Developer from Belgium 🇧🇪
 
 <!-- Contact -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shuupsy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sylvaine-ruan/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sylvaine.ruan@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sylvaine.hello@gmail.com)
 
 
-🌱 I’m currently learning Python, Figma.
+- 🌱 I’m currently learning Python and Figma.
+- ⚡️ Fun-Fact: I have a bachelor degreein Optics and Optometry;
+- 📫 How to reach me: sylvaine.hello@gmail.com ;
 
 
 <!-- Languages -->
