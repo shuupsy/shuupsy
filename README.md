@@ -14,7 +14,7 @@ A junior fullstack developer from Belgium 🇧🇪
 
 
 <!-- Stats -->
-[!(https://github-readme-stats.vercel.app/api?username=shuupsy&show_icons=true&hide=prs&title_color=ff5757&text_color=070606&text_bold=false&icon_color=955e42&card_width=375)]
+### Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shuupsy&show_icons=true&hide=prs&title_color=ff5757&text_color=070606&text_bold=false&icon_color=955e42&card_width=375" alt="shuupsy" /></p>
 
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=shuupsy&layout=compact&title_color=ff5757&text_color=070606)]
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuupsy&layout=compact&title_color=ff5757&text_color=070606" alt="shuupsy" /></p>
